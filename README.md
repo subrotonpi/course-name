@@ -1,5 +1,11 @@
 # This is a sample course repository.
 ## Things to note
+## Your information
+-Name
+-ID
+-Course Name
+-Section, Semester
+-Photo
 ### This repository should contain the following (but not limited to)-
 - Homeworks 
 - Labworks
